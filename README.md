@@ -19,9 +19,10 @@
 </div>
 
 
-
 # 🙋 Hello
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=AltarIbnL" /> </div>
+<div align="left"> </div>
+
+<span > <img src="https://visitor-badge.glitch.me/badge?page_id=AltarIbnL" /> <img src="https://img.shields.io/badge/-Golang-orange?style=flat-square&logo=Go&logoColor=white" /> <img src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-mysql-1572B6?style=flat-square&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />  </span>
 
 - 😊 大家好，我是一名菜鸡在读研究生，目前主要研究云计算和入侵检测。
 
