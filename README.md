@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/33597692/192220552-9d64444c-325f-438f-80fb-f7960f833556.gif" alt="QQ图片20220926154156" width="480" height="320" />
+</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=9608F4&width=435&center=true&lines=%E7%A5%9D%E4%BD%A0%E6%98%A8%E5%A4%A9%EF%BC%8C%E4%BB%8A%E5%A4%A9%EF%BC%8C%E6%98%8E%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BC%80%E5%BF%83%EF%BC%81;fmt.Println(%22Hello+World%22)" alt="Typing SVG" /></a>
