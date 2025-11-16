@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="PbeRTZlKVminDf_B35GG-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="550" as="sourcePoint" />
             <mxPoint x="270" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -59,23 +59,33 @@
             <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PbeRTZlKVminDf_B35GG-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="PbeRTZlKVminDf_B35GG-17" value="&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 4px; font-weight: 600; hyphens: auto; margin: 0px; padding: 0.5em; text-wrap-mode: wrap; word-break: break-word;&quot; class=&quot;body-param__example microlight&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 4px; hyphens: auto; margin: 0px; padding: 0.5em; text-wrap-mode: wrap; word-break: break-word;&quot; class=&quot;body-param__example microlight&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, monaco, monospace; font-size: 1em; word-break: break-all; text-wrap-mode: nowrap;&quot; class=&quot;language-json&quot;&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;{&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;app_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;ixci-dev&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;task1/shaokang.cai&quot;&lt;span style=&quot;font-size: 1em; white-space-collapse: collapse; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); box-sizing: inherit;&quot;&gt;,&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_type&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;task&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;role_name&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;owner&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;username&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;shaokang.cai&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&lt;br&gt;&lt;/span&gt;}&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="260" width="285" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PbeRTZlKVminDf_B35GG-21" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PbeRTZlKVminDf_B35GG-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="270" as="sourcePoint" />
-            <mxPoint x="710" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="710" y="270" />
-              <mxPoint x="710" y="220" />
-            </Array>
+            <mxPoint x="270" y="240" as="sourcePoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PbeRTZlKVminDf_B35GG-16" value="permissions/user-permissions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PbeRTZlKVminDf_B35GG-15">
-          <mxGeometry x="-0.3425" relative="1" as="geometry">
+        <mxCell id="PbeRTZlKVminDf_B35GG-25" value="/permissions/user-permissions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PbeRTZlKVminDf_B35GG-22">
+          <mxGeometry x="-0.1786" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PbeRTZlKVminDf_B35GG-17" value="&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 4px; font-weight: 600; hyphens: auto; margin: 0px; padding: 0.5em; text-wrap-mode: wrap; word-break: break-word;&quot; class=&quot;body-param__example microlight&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 4px; hyphens: auto; margin: 0px; padding: 0.5em; text-wrap-mode: wrap; word-break: break-word;&quot; class=&quot;body-param__example microlight&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, monaco, monospace; font-size: 1em; word-break: break-all; text-wrap-mode: nowrap;&quot; class=&quot;language-json&quot;&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;{&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;app_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;ixci-dev&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;task-12345&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_type&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;task&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;role_name&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;owner&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;username&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&quot;shaokang.cai&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&lt;br&gt;&lt;/span&gt;}&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="230" height="140" as="geometry" />
+        <mxCell id="PbeRTZlKVminDf_B35GG-24" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="390" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PbeRTZlKVminDf_B35GG-26" value="response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PbeRTZlKVminDf_B35GG-24">
+          <mxGeometry x="-0.087" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
