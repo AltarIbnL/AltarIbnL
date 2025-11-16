@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="第 1 页" id="iyFLdHFkOyu0Mq63G7AQ">
+    <mxGraphModel dx="1907" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-1" value="前端" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="140" as="sourcePoint" />
+            <mxPoint x="220" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kZNkNr_9Fp-BoCOToulC-3" target="kZNkNr_9Fp-BoCOToulC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-8" value="注册资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kZNkNr_9Fp-BoCOToulC-5">
+          <mxGeometry x="-0.08" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-3" value="api-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kZNkNr_9Fp-BoCOToulC-4" target="kZNkNr_9Fp-BoCOToulC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-9" value="注册rbac" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kZNkNr_9Fp-BoCOToulC-7">
+          <mxGeometry x="-0.156" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-4" value="后端&lt;div&gt;task，machine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="115" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-6" value="rbac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="115" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kZNkNr_9Fp-BoCOToulC-10" value="&lt;div&gt;&lt;div&gt;&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background: rgb(51, 51, 51); border-radius: 4px; font-weight: 600; hyphens: auto; margin: 0px; padding: 0.5em; text-wrap-mode: wrap; word-break: break-word;&quot; class=&quot;body-param__example microlight&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, monaco, monospace; font-size: 1em; word-break: break-all; text-wrap-mode: nowrap;&quot; class=&quot;language-json&quot;&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;app_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;ixci-dev&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;creator_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;user-001&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;owner_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;user-001&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;parent_scope_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(211, 99, 99);&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_id&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;task-12345&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_name&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;数据处理任务&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;resource_type&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;task&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
