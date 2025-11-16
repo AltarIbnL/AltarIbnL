@@ -87,6 +87,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PbeRTZlKVminDf_B35GG-27" value="现在查询用户对资源的访问权限是通过resource_id 来查询的，而现在resource_id 是通过 resourcename/username的形式，所以我在查询的时候可以直接拼接出来。&lt;div&gt;但是之后不同资源的 resource_id 应该是根据后端创建资源时返回的id来指定的，而要判断用户对某个资源类型的哪些资源有访问权限（比如说对于task类型，现在只能判断用户能访问哪些task资源和历史信息，但是对于task1这个task，他历史触发是没法获取的，因为现在不支持基于resource_name的查询），则必须获得对应resource_id。而这个id在前端又是不可感知的，因此当前没法通过id来指定resource_id&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="330" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
